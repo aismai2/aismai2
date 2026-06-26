@@ -1,3 +1,4 @@
+👉 Hi, I’m Abdi—SIEM me up when it gets weird.
 # 🔐 Cybersecurity & SOC Projects
 
 Welcome to my repository. This space showcases my work in cybersecurity analysis, threat detection, and security operations.
